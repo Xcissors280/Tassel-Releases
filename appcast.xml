@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- items -->
     <item>
+      <title>Tassel 1.2</title>
+      <pubDate>Thu, 22 Oct 2026 19:47:17 -0400</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Tassel is now free for everyone, with Tassel Pro for invited students. New: assignment types you can filter and sort, one layout for assignments and messages, optional on-device summaries with an Action Needed list, and a week-long Pro trial.</p>]]></description>
+      <enclosure url="https://github.com/Xcissors280/Tassel-Releases/releases/download/v1.2/Tassel.zip" type="application/octet-stream" sparkle:edSignature="UmgE7Hhsbskz5rUEK9V02Pfu8/Vz82vOkynNjCJ+h9dL9q9tt9ClxrORkGVyEwht5mxoZ3jCVCtawE8Bc5RbAQ==" length="7942910" />
+    </item>
+    <item>
       <title>Tassel 1.1</title>
       <pubDate>Thu, 22 Oct 2026 19:08:56 -0400</pubDate>
       <sparkle:version>3</sparkle:version>
