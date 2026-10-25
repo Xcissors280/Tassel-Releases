@@ -7,6 +7,17 @@
     <language>en</language>
     <!-- items -->
     <item>
+      <title>Tassel 1.4</title>
+      <pubDate>Sat, 24 Oct 2026 23:56:57 -0400</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Grades, reimagined: every assignment shows your score as a percent and how much of your class grade it&#x27;s worth, everywhere (lists, details, the Grades tab), with bars for what you kept and lost. Ungraded work shows what it will be worth without counting yet; work that&#x27;s closed or a week late without being turned in counts as an estimated 0. Change an assignment&#x27;s category or add your own, saved per class. The official grade sits next to Tassel&#x27;s calculation.
+Super Intelligence: knows your Do First ranking, grades, schedule and attached files, answers in tidy sections, and shows what it&#x27;s doing. Use Apple Intelligence (Local), Claude (Subscription), ChatGPT or Gemini with your own account (set up right in Tassel, no API key), or any API key, each with its choice of model. Connect Tassel to other AI apps (Claude, Codex, Cursor, VS Code and more).
+Also: signed-in Canvas accounts stay signed in with an access token; scanned PDFs are read; documents get summaries; resolve messages and announcements without deleting them; StudentVUE zeros for work you&#x27;ve since turned in on Canvas no longer count.</p>]]></description>
+      <enclosure url="https://github.com/Xcissors280/Tassel-Releases/releases/download/v1.4/Tassel.zip" type="application/octet-stream" sparkle:edSignature="bvaidpzwTdgyExOb9RQ6CokBUz1fLxI4zbMfKdCDqipd1sMKCFDILS0OsLjYIhfCsrXi7iweNLjG4KjnAxdyCQ==" length="8936307" />
+    </item>
+    <item>
       <title>Tassel 1.3</title>
       <pubDate>Fri, 23 Oct 2026 12:47:49 -0400</pubDate>
       <sparkle:version>5</sparkle:version>
