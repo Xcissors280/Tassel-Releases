@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- items -->
     <item>
+      <title>Tassel 1.5</title>
+      <pubDate>Sun, 25 Oct 2026 19:52:12 -0400</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Stay signed in without thinking about it: sign in once in Tassel and it remembers your school sign-in (username, password, and the pictures for picture-password logins like RapidIdentity), then signs you back in by itself in the background whenever your school signs you out. The same sign-in keeps your school Google accounts connected (and adds them for your schools on its own) and fills in StudentVUE when you add it. Saved only on your Mac; it stops at any login error so it never locks your account.</p>]]></description>
+      <enclosure url="https://github.com/Xcissors280/Tassel-Releases/releases/download/v1.5/Tassel.zip" type="application/octet-stream" sparkle:edSignature="kRSLLOjYKSkTTZHR1l8UDcnhe3qjp047sitG0b/isx34rKvqACSrW0F7slY3GUCqTRZtRnC8wPdVAGiUPGarAA==" length="9081083" />
+    </item>
+    <item>
       <title>Tassel 1.4</title>
       <pubDate>Sat, 24 Oct 2026 23:56:57 -0400</pubDate>
       <sparkle:version>6</sparkle:version>
