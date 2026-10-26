@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- items -->
     <item>
+      <title>Tassel 1.6.3</title>
+      <pubDate>Mon, 26 Oct 2026 16:35:08 -0400</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>1.6.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Grades: upcoming tests and quizzes from Canvas show in their category with what they&#x27;ll be worth, without counting until they&#x27;re graded (or you try a what-if). Add an upcoming assignment that isn&#x27;t in Canvas yet: its category and points are filled in for you. Classes whose StudentVUE only shows totals (like dual enrollment) now use Canvas&#x27;s assignments as the gradebook. StudentVUE grades link to their Canvas assignments more often, even when they&#x27;re named differently.</p>]]></description>
+      <enclosure url="https://github.com/Xcissors280/Tassel-Releases/releases/download/v1.6.3/Tassel.zip" type="application/octet-stream" sparkle:edSignature="+hvN6YhMVZO8ax7UpHJzwsnEFssX+KJuB/etW1fjZc8OkL0Jn+9qN8Za9tvSB2e/z+SJIBtNk0O5hBC71HujBQ==" length="9504844" />
+    </item>
+    <item>
       <title>Tassel 1.6.2</title>
       <pubDate>Mon, 26 Oct 2026 15:36:57 -0400</pubDate>
       <sparkle:version>10</sparkle:version>
