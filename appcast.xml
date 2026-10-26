@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- items -->
     <item>
+      <title>Tassel 1.6.2</title>
+      <pubDate>Mon, 26 Oct 2026 15:36:57 -0400</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>1.6.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Google Docs keep their formatting: syllabus tables and headings show the way the teacher made them. Your school Google accounts now sign back in by themselves through your school&#x27;s sign-in (pictures included), and signing in to Canvas connects your school Google account right away. Super Intelligence (and other AI apps connected to Tassel) can now open what&#x27;s in your modules: pages, files and discussions. Updates now install automatically by default.</p>]]></description>
+      <enclosure url="https://github.com/Xcissors280/Tassel-Releases/releases/download/v1.6.2/Tassel.zip" type="application/octet-stream" sparkle:edSignature="LirVeRzhlx0gF4Bw2qrPLkBP1YOvKSmTeLR30xGnTk2LBu/d2BB1ykxAzCUiy6xzwXknwaLGvHlylEGMhVK2CQ==" length="9408350" />
+    </item>
+    <item>
       <title>Tassel 1.6.1</title>
       <pubDate>Mon, 26 Oct 2026 10:53:47 -0400</pubDate>
       <sparkle:version>9</sparkle:version>
