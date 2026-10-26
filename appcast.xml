@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- items -->
     <item>
+      <title>Tassel 1.6</title>
+      <pubDate>Sun, 25 Oct 2026 21:57:48 -0400</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>A new setup that does the work for you: sign in to your school&#x27;s Canvas once, and Tassel connects your school&#x27;s Google account and StudentVUE with that same sign-in wherever it can. Add a second Canvas (like a college) or skip it. If StudentVUE wasn&#x27;t found, a ZIP code finds your district (your school&#x27;s is picked for you) with your username and password already filled in; any Google account that didn&#x27;t connect is one click. Everything can be skipped and changed later in Settings.</p>]]></description>
+      <enclosure url="https://github.com/Xcissors280/Tassel-Releases/releases/download/v1.6/Tassel.zip" type="application/octet-stream" sparkle:edSignature="3D7dy+bvCqIhoaF4zppwMebSsBRebdfj4EHuj14n2PC22Kc6BEeGQFXVDaa+XPrfknkAR/GOJPrruknCWevxCA==" length="9243393" />
+    </item>
+    <item>
       <title>Tassel 1.5</title>
       <pubDate>Sun, 25 Oct 2026 19:52:12 -0400</pubDate>
       <sparkle:version>7</sparkle:version>
