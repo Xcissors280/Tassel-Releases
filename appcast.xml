@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- items -->
     <item>
+      <title>Tassel 1.6.1</title>
+      <pubDate>Mon, 26 Oct 2026 10:53:47 -0400</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Fixes: signing back in to your school in the background no longer pops up the sign-in window when it actually worked. On the Grades tab, a click shows an assignment in the details panel and a double-click opens it, and more StudentVUE grades are linked to their Canvas assignments. Action buttons in the details panel have room and wrap instead of squeezing.</p>]]></description>
+      <enclosure url="https://github.com/Xcissors280/Tassel-Releases/releases/download/v1.6.1/Tassel.zip" type="application/octet-stream" sparkle:edSignature="IygRzA2kGFTsH2xKyfnIyJ5PfhBc0jsdy3lQ/J3U/LpgCwMqHNf5m2kL+hYjW7IZzdYB9zI3pVsto+C2WOFuCA==" length="9272750" />
+    </item>
+    <item>
       <title>Tassel 1.6</title>
       <pubDate>Sun, 25 Oct 2026 21:57:48 -0400</pubDate>
       <sparkle:version>8</sparkle:version>
