@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- items -->
     <item>
+      <title>Tassel 1.6.4</title>
+      <pubDate>Tue, 27 Oct 2026 11:21:34 -0400</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>1.6.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Click “worth X% of your grade” on any assignment to see how it&#x27;s figured, move it to another category, or jump to it on the Grades tab. Upcoming work&#x27;s previews now add up sensibly, and Canvas assignments linked to StudentVUE aren&#x27;t counted twice. Your school Google account can sign in by itself with your school login, a progress bar shows while summaries run, and flagged assignments aren&#x27;t listed twice on class pages.</p>]]></description>
+      <enclosure url="https://github.com/Xcissors280/Tassel-Releases/releases/download/v1.6.4/Tassel.zip" type="application/octet-stream" sparkle:edSignature="LrGfuw3KRi59P4dfCaNd6AQUTfJkS8VQbeT6mhO3kF5jCpgFKKskv84at8VfP/E+9v2fGqwlhJKF34SgmyPgCw==" length="9604570" />
+    </item>
+    <item>
       <title>Tassel 1.6.3</title>
       <pubDate>Mon, 26 Oct 2026 16:35:08 -0400</pubDate>
       <sparkle:version>11</sparkle:version>
