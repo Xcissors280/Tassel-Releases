@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- items -->
     <item>
+      <title>Tassel 1.7.1</title>
+      <pubDate>Wed, 28 Oct 2026 17:14:46 -0400</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Grades: shorter notes, with the details in a tooltip. Apps is now called Applications, with sharper icons, your school&#x27;s short name, and filtering from the regular search bar.</p>]]></description>
+      <enclosure url="https://github.com/Xcissors280/Tassel-Releases/releases/download/v1.7.1/Tassel.zip" type="application/octet-stream" sparkle:edSignature="S+V1H331mi7jIsTattvWXYIKexjnBM1sZp9wZhFtIITrOVl98aFyIl2g0W5d/KA2BYSz46hYGVvG9MRSQhKVBw==" length="10506175" />
+    </item>
+    <item>
       <title>Tassel 1.7</title>
       <pubDate>Wed, 28 Oct 2026 16:42:55 -0400</pubDate>
       <sparkle:version>13</sparkle:version>
