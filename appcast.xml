@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- items -->
     <item>
+      <title>Tassel 1.7.2</title>
+      <pubDate>Thu, 29 Oct 2026 17:10:20 -0400</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>See what you turned in right in the details panel (your text, link or Google Doc, and files). Grades show a calculated letter grade on your school&#x27;s scale. StudentVUE letter and percent grades no longer go missing next to Canvas work, renamed assignments link up, and past on-paper work shows on class pages. Assistants are told never to turn anything in without your approval.</p>]]></description>
+      <enclosure url="https://github.com/Xcissors280/Tassel-Releases/releases/download/v1.7.2/Tassel.zip" type="application/octet-stream" sparkle:edSignature="+GRPLHSSjXnuDaW0oOc40VSo5DwLEOcMKvXUpWBNcSNEZEQZy1JFcdlg46PdEkhITUahPS4krV6AW9HRiTd5Bg==" length="10621678" />
+    </item>
+    <item>
       <title>Tassel 1.7.1</title>
       <pubDate>Wed, 28 Oct 2026 17:14:46 -0400</pubDate>
       <sparkle:version>14</sparkle:version>
