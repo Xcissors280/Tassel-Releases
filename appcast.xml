@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- items -->
     <item>
+      <title>Tassel 1.7.3</title>
+      <pubDate>Fri, 30 Oct 2026 17:32:25 -0400</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>1.7.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Grades tab: easier to read rows (stripes, dates and status in columns, the selected assignment highlighted), Canvas work in its category, and extra credit that only adds to your grade. Clicking around is much faster.</p>]]></description>
+      <enclosure url="https://github.com/Xcissors280/Tassel-Releases/releases/download/v1.7.3/Tassel.zip" type="application/octet-stream" sparkle:edSignature="tKbavy4JQzmBcr7Sf3XW30gRfX8DA6XFhZjUIvyCl8VhWOwQRGF1GaUj18cUGJw7xbE3nrsTIeOrbOygrZhmCw==" length="10769911" />
+    </item>
+    <item>
       <title>Tassel 1.7.2</title>
       <pubDate>Thu, 29 Oct 2026 17:10:20 -0400</pubDate>
       <sparkle:version>15</sparkle:version>
