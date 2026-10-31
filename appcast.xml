@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- items -->
     <item>
+      <title>Tassel 1.7.4</title>
+      <pubDate>Fri, 30 Oct 2026 20:40:29 -0400</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>1.7.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Grades: letter grades StudentVUE still flags as missing now count, dual-enrollment classes show the college&#x27;s Canvas grade next to StudentVUE&#x27;s, and outside-tool assignments and undated work are labeled.</p>]]></description>
+      <enclosure url="https://github.com/Xcissors280/Tassel-Releases/releases/download/v1.7.4/Tassel.zip" type="application/octet-stream" sparkle:edSignature="3KoEEP4CAkueAxK9MT3wi+J5gHCS94db9UlXFWRYBHbI1rhHhnUtKCAMtFEE2xcSUiD+3V0P/vr+rCLP/tg2AQ==" length="10781849" />
+    </item>
+    <item>
       <title>Tassel 1.7.3</title>
       <pubDate>Fri, 30 Oct 2026 17:32:25 -0400</pubDate>
       <sparkle:version>16</sparkle:version>
