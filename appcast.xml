@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- items -->
     <item>
+      <title>Tassel 1.8</title>
+      <pubDate>Sun, 01 Nov 2026 17:13:45 -0500</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>1.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>See and send your Canvas messages from the Mail app: turn it on in Settings → Accounts → Mail, and each school gets its own account in Mail (StudentVUE messages can be read there too). Grades is now the last tab on class pages, and file names for uploads and downloads are tidier.</p>]]></description>
+      <enclosure url="https://github.com/Xcissors280/Tassel-Releases/releases/download/v1.8/Tassel.zip" type="application/octet-stream" sparkle:edSignature="1SIwyrkQF8NoEElw1CpYynat3IMO+x7pwaziWo0UTjZ3YbmwzuN0kWuNsyBH2FOMI6iYvdXlDC1MJoz99pSrAw==" length="11120833" />
+    </item>
+    <item>
       <title>Tassel 1.7.4</title>
       <pubDate>Fri, 30 Oct 2026 20:40:29 -0400</pubDate>
       <sparkle:version>17</sparkle:version>
