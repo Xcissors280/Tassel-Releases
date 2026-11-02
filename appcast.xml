@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- items -->
     <item>
+      <title>Tassel 1.8.3</title>
+      <pubDate>Mon, 02 Nov 2026 17:20:15 -0500</pubDate>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>1.8.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Daily agendas: when a class&#x27;s Canvas home page links its agenda, today&#x27;s shows on Today and at the top of the class&#x27;s Work tab (click it for the whole thing). Applications also lists the outside tools your classes link, like dictionaries, tutoring and Zoom. App tiles have tidier names and logos are no longer cut off.</p>]]></description>
+      <enclosure url="https://github.com/Xcissors280/Tassel-Releases/releases/download/v1.8.3/Tassel.zip" type="application/octet-stream" sparkle:edSignature="RzY8eJIkwayJdVA+kQHyAAF/VM4LUtfPtPmHWB/cF6OyJGukUCvwXBYeWqF4QyVhJYK6UlbA1LELhggt3PDHCw==" length="11443129" />
+    </item>
+    <item>
       <title>Tassel 1.8.2</title>
       <pubDate>Mon, 02 Nov 2026 12:43:54 -0500</pubDate>
       <sparkle:version>20</sparkle:version>
