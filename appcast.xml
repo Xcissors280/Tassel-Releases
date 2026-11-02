@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- items -->
     <item>
+      <title>Tassel 1.8.2</title>
+      <pubDate>Mon, 02 Nov 2026 12:43:54 -0500</pubDate>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>1.8.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Canvas messages stay the same everywhere: flagging, archiving, deleting or moving one to a folder in Mail matches in Tassel and Canvas, and the other way around. Right-click a class&#x27;s link buttons to copy the link.</p>]]></description>
+      <enclosure url="https://github.com/Xcissors280/Tassel-Releases/releases/download/v1.8.2/Tassel.zip" type="application/octet-stream" sparkle:edSignature="+e4Wfe7D584alGQ0ERCjlWRWxwDgtTghEZHBxIop5L6EabY+UPpbqKiylQsklm8NMubTAARlJxOu22aF0Q2MAQ==" length="11170346" />
+    </item>
+    <item>
       <title>Tassel 1.8.1</title>
       <pubDate>Sun, 01 Nov 2026 19:13:44 -0500</pubDate>
       <sparkle:version>19</sparkle:version>
