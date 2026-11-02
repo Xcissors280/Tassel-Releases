@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- items -->
     <item>
+      <title>Tassel 1.8.4</title>
+      <pubDate>Mon, 02 Nov 2026 17:31:49 -0500</pubDate>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>1.8.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>You can drag and drop files into Turn in. Nothing is submitted until you confirm.</p>]]></description>
+      <enclosure url="https://github.com/Xcissors280/Tassel-Releases/releases/download/v1.8.4/Tassel.zip" type="application/octet-stream" sparkle:edSignature="zuKXPlABujQs8unnVGumxaNoej219AOZvKRN/1AEWB0n+BrrY7xOEgA0dGnf2pbLvBbVyMVWOnlzdss+RGH+Cw==" length="11460712" />
+    </item>
+    <item>
       <title>Tassel 1.8.3</title>
       <pubDate>Mon, 02 Nov 2026 17:20:15 -0500</pubDate>
       <sparkle:version>21</sparkle:version>
