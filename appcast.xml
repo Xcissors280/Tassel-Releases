@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- items -->
     <item>
+      <title>Tassel 1.9</title>
+      <pubDate>Wed, 04 Nov 2026 11:29:48 -0500</pubDate>
+      <sparkle:version>24</sparkle:version>
+      <sparkle:shortVersionString>1.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>New quarter handled properly: last quarter&#x27;s grades and work are kept, the Grades tab can switch between marking periods, and the sidebar shows last quarter&#x27;s grade until the new one has grades. Take the Zero closes an assignment for good. Lunch shows in Today and Calendar (pick yours once), and free periods like study hall and independent study show as Free Period.</p>]]></description>
+      <enclosure url="https://github.com/Xcissors280/Tassel-Releases/releases/download/v1.9/Tassel.zip" type="application/octet-stream" sparkle:edSignature="s4HgreMthkQj3WmiEOt7jo1tdeV+r1bmGEavTDN87JKsyuXwFVFzV40B4Mp7y+a7MniRbcIUNwPf9x4qevl9DQ==" length="11944207" />
+    </item>
+    <item>
       <title>Tassel 1.8.5</title>
       <pubDate>Wed, 04 Nov 2026 10:18:42 -0500</pubDate>
       <sparkle:version>23</sparkle:version>
