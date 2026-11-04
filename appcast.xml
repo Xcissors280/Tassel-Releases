@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- items -->
     <item>
+      <title>Tassel 1.9.2</title>
+      <pubDate>Wed, 04 Nov 2026 15:42:27 -0500</pubDate>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:shortVersionString>1.9.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Marking periods work properly: last quarter&#x27;s finished work leaves To Do, and each quarter&#x27;s grades show only that quarter&#x27;s work. Daily agendas also come from class documents, with a sentence on each linked document. Messages show the assignments and documents they&#x27;re about. To Do has a filter. Tassel syncs again when you get back online.</p>]]></description>
+      <enclosure url="https://github.com/Xcissors280/Tassel-Releases/releases/download/v1.9.2/Tassel.zip" type="application/octet-stream" sparkle:edSignature="erOiouvMWtDA+zdGS7yWdhk+7uvotrCTtegd2ySFJbWvni8VpMgwBXFu4Z4mC1MkJhK1fz7Z3YCk4UGXyVJXDg==" length="12113831" />
+    </item>
+    <item>
       <title>Tassel 1.9.1</title>
       <pubDate>Wed, 04 Nov 2026 11:52:11 -0500</pubDate>
       <sparkle:version>25</sparkle:version>
