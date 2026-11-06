@@ -7,6 +7,18 @@
     <language>en</language>
     <!-- items -->
     <item>
+      <title>Tassel 1.9.3</title>
+      <pubDate>Fri, 06 Nov 2026 16:14:08 -0500</pubDate>
+      <sparkle:version>27</sparkle:version>
+      <sparkle:shortVersionString>1.9.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>People: everyone from your classes, groups and school directory in one place. Search by name or part of an address, with teachers and staff kept apart from students. Join, invite to and announce in groups. Click anyone to see their addresses and the classes you share.
+More Classes: open courses that aren&#x27;t in your sidebar from the ⋯ by the Classes heading or Go → More Classes…. Tassel reads them only once you open them.
+Documents linked from an assignment now show with it.
+A saved password is set aside only when the site actually rejects it.</p>]]></description>
+      <enclosure url="https://github.com/Xcissors280/Tassel-Releases/releases/download/v1.9.3/Tassel.zip" type="application/octet-stream" sparkle:edSignature="ZSZrDRrxy9yKC4CZqPxKGxwU1ER7ZGgmcyDIePkn8IdEyabPC53MAkS4MgrVjCzQ0kg0DeyT8mgOZwMZMcslAQ==" length="12692317" />
+    </item>
+    <item>
       <title>Tassel 1.9.2</title>
       <pubDate>Wed, 04 Nov 2026 15:42:27 -0500</pubDate>
       <sparkle:version>26</sparkle:version>
