@@ -7,6 +7,19 @@
     <language>en</language>
     <!-- items -->
     <item>
+      <title>Tassel 1.10</title>
+      <pubDate>Fri, 06 Nov 2026 22:34:51 -0500</pubDate>
+      <sparkle:version>28</sparkle:version>
+      <sparkle:shortVersionString>1.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Friends: add classmates as friends (even before they use Tassel), invite them by email, and see who uses Tassel next to their name.
+Leaderboard: under People, overall or by class. Click anyone for their grades, rank and trend, and compare classes with friends. The top 3 in each school get an award when a quarter ends.
+Class numbers: anonymous class averages and likely scores once 3 classmates use Tassel. Grade sharing is in Settings → Accounts, friends by default, with Delete My Data.
+Contacts: People uses your contacts for names and photos, and adds school addresses to them once.
+Messages about work you&#x27;ve since turned in leave Needs Your Attention, and message windows link the work they mention.</p>]]></description>
+      <enclosure url="https://github.com/Xcissors280/Tassel-Releases/releases/download/v1.10/Tassel-1.10.zip" type="application/octet-stream" sparkle:edSignature="ElIwpslvUoQjTv7FrbW2xT/T0le/vFNi6rhHgmVDAEGb93G7VGeF+FFxlhBtjX0U/IAVY+Mz9OHGig3rpjynBA==" length="13734515" />
+    </item>
+    <item>
       <title>Tassel 1.9.3</title>
       <pubDate>Fri, 06 Nov 2026 16:14:08 -0500</pubDate>
       <sparkle:version>27</sparkle:version>
