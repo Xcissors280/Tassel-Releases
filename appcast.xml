@@ -7,6 +7,17 @@
     <language>en</language>
     <!-- items -->
     <item>
+      <title>Tassel 1.10.1</title>
+      <pubDate>Sat, 07 Nov 2026 18:21:20 -0500</pubDate>
+      <sparkle:version>29</sparkle:version>
+      <sparkle:shortVersionString>1.10.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Pro is now checked with Tassel&#x27;s server. If Pro turned off after the last update, this brings it back.
+Before an AI assistant or connected AI app shares, moves, replaces or trashes a Google Drive file, Tassel asks you first.
+People no longer merges two different students who share a name, and each address shows once.</p>]]></description>
+      <enclosure url="https://github.com/Xcissors280/Tassel-Releases/releases/download/v1.10.1/Tassel-1.10.1.zip" type="application/octet-stream" sparkle:edSignature="ImsJ3AfLDplztFgOKI7YftdsBU5lZqQc15h4Mkaeckj2E6G3vnHVuaT/XtAq3HF2xPTBd783n4j4pW2+CivzCw==" length="13757370" />
+    </item>
+    <item>
       <title>Tassel 1.10</title>
       <pubDate>Fri, 06 Nov 2026 22:34:51 -0500</pubDate>
       <sparkle:version>28</sparkle:version>
