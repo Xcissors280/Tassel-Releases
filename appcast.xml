@@ -7,6 +7,16 @@
     <language>en</language>
     <!-- items -->
     <item>
+      <title>Tassel 1.10.2</title>
+      <pubDate>Mon, 09 Nov 2026 10:12:50 -0500</pubDate>
+      <sparkle:version>30</sparkle:version>
+      <sparkle:shortVersionString>1.10.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>The calendar is laid out like Apple&#x27;s Calendar: every day on one hour scale, the same columns every week (Monday to Friday plus the weekend), and due work, absences and all-day events in a strip on top. Click any assignment to see it in the side panel.
+The selected item in the sidebar now shows its icon clearly.</p>]]></description>
+      <enclosure url="https://github.com/Xcissors280/Tassel-Releases/releases/download/v1.10.2/Tassel-1.10.2.zip" type="application/octet-stream" sparkle:edSignature="xlqiytAgH6vSreZlCT3wPZnP6bxDJsCiGSV7yu0m4CDPwaMZQ9jqkK6KSPb4jYNTmvoCaj6wcyAvB9TvVnaICA==" length="13942393" />
+    </item>
+    <item>
       <title>Tassel 1.10.1</title>
       <pubDate>Sat, 07 Nov 2026 18:21:20 -0500</pubDate>
       <sparkle:version>29</sparkle:version>
