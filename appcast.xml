@@ -7,6 +7,20 @@
     <language>en</language>
     <!-- items -->
     <item>
+      <title>Tassel 1.12</title>
+      <pubDate>Mon, 09 Nov 2026 19:53:57 -0500</pubDate>
+      <sparkle:version>32</sparkle:version>
+      <sparkle:shortVersionString>1.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Faster: accounts sync at the same time and start-up finishes in a fraction of the time. Daily agendas load in the background in seconds, and a failed read keeps the last one.
+Smoother class tabs. The selected sidebar row is always blue with a white icon and name.
+Announcements from the whole school year now show up (some were being missed).
+Modules and Applications no longer cut text off; Applications finds sharper icons and summarizes library resources.
+Comparing grades with friends waits out busy moments instead of failing.
+The ZIP code in setup is found automatically. No more password prompts from old Keychain items or the Mail bridge, which now only listens on your Mac.</p>]]></description>
+      <enclosure url="https://github.com/Xcissors280/Tassel-Releases/releases/download/v1.12/Tassel-1.12.zip" type="application/octet-stream" sparkle:edSignature="sG2Bj706Rqcp23swT0SqmNrGyZOJF0hj+lJfQfVpcmVJ9AnVCHTyibQuJcf/S9lN5sJys2/h62ujqvGxZ3BZCg==" length="14247516" />
+    </item>
+    <item>
       <title>Tassel 1.11</title>
       <pubDate>Mon, 09 Nov 2026 10:51:58 -0500</pubDate>
       <sparkle:version>31</sparkle:version>
