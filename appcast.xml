@@ -7,6 +7,16 @@
     <language>en</language>
     <!-- items -->
     <item>
+      <title>Tassel 1.13</title>
+      <pubDate>Tue, 10 Nov 2026 12:53:35 -0500</pubDate>
+      <sparkle:version>33</sparkle:version>
+      <sparkle:shortVersionString>1.13</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Circles: make a group with a name and an icon, invite people (even ones not on Tassel yet), and rank together on the leaderboard, overall or by class. Owners can open a circle to everyone in one of their classes, their grade or their school; those show up under Circles You Can Join.
+Joining a circle lets its members see your rank and grades, unless your grade sharing is set to No one.</p>]]></description>
+      <enclosure url="https://github.com/Xcissors280/Tassel-Releases/releases/download/v1.13/Tassel-1.13.zip" type="application/octet-stream" sparkle:edSignature="1Z+R2UHsyeAm7epNBdhECNoQMN/YEDOEvqcTJly11U1G3Pv5VtXNI8Jj79SY5AhuLNS7lyYVyorE/q2RdfqXBA==" length="14649586" />
+    </item>
+    <item>
       <title>Tassel 1.12</title>
       <pubDate>Mon, 09 Nov 2026 19:53:57 -0500</pubDate>
       <sparkle:version>32</sparkle:version>
