@@ -7,6 +7,17 @@
     <language>en</language>
     <!-- items -->
     <item>
+      <title>Tassel 1.13.1</title>
+      <pubDate>Tue, 10 Nov 2026 14:19:15 -0500</pubDate>
+      <sparkle:version>34</sparkle:version>
+      <sparkle:shortVersionString>1.13.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Class and school rankings now include your friends and circle members, not just people who share with everyone, and each is labeled.
+The leaderboard&#x27;s menu shows circles cleanly with their icons and full names, and your own row is marked with a simple You tag.
+Every row in the sidebar uses the same font weight.</p>]]></description>
+      <enclosure url="https://github.com/Xcissors280/Tassel-Releases/releases/download/v1.13.1/Tassel-1.13.1.zip" type="application/octet-stream" sparkle:edSignature="gy85vCxX3mESbz4TEBiE0E7gp0s5vAPe8pytVzHDU/Z7Fshg9etOvI0E7tV0DKCsrZabichQTRIi79t4nKHnDA==" length="14688906" />
+    </item>
+    <item>
       <title>Tassel 1.13</title>
       <pubDate>Tue, 10 Nov 2026 12:53:35 -0500</pubDate>
       <sparkle:version>33</sparkle:version>
