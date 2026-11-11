@@ -7,6 +7,18 @@
     <language>en</language>
     <!-- items -->
     <item>
+      <title>Tassel 1.14</title>
+      <pubDate>Tue, 10 Nov 2026 23:58:04 -0500</pubDate>
+      <sparkle:version>35</sparkle:version>
+      <sparkle:shortVersionString>1.14</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Assignments show What to do: the steps and requirements pulled from the instructions and the documents they link.
+A class&#x27;s Work tab opens with its daily agenda, kept up to date. Syllabi are formatted, with an At a glance box. File summaries are clearer.
+Messages show the assignment they&#x27;re about, with your grade or whether it&#x27;s turned in, and a button to open it. Messages about work you&#x27;ve already turned in are resolved for you.
+When an announcement or message moves a due date, the assignment updates and notes which message moved it; you can switch back to Canvas&#x27;s date.</p>]]></description>
+      <enclosure url="https://github.com/Xcissors280/Tassel-Releases/releases/download/v1.14/Tassel-1.14.zip" type="application/octet-stream" sparkle:edSignature="3TDiMDkeBOkCF4nk3Le3qhdQY57itrEmEWb2ptDsxpcoVvTjCavioeKpi9ifPdtbrkORRlrcExyw0pyc2AwMCA==" length="15074734" />
+    </item>
+    <item>
       <title>Tassel 1.13.1</title>
       <pubDate>Tue, 10 Nov 2026 14:19:15 -0500</pubDate>
       <sparkle:version>34</sparkle:version>
