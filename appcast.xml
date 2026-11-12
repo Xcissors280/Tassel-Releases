@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- items -->
     <item>
+      <title>Tassel 1.17</title>
+      <pubDate>Thu, 12 Nov 2026 18:42:59 -0500</pubDate>
+      <sparkle:version>38</sparkle:version>
+      <sparkle:shortVersionString>1.17</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Sync Between Macs keeps another Mac identical: logins (now including school and Google sign-ins) always arrive, the newest copy wins, and your settings and edits (class nicknames, colors, order, what you marked done or important, notes) come along. Friend requests and circle invites always send a notification. Classmates&#x27; school emails are added to contacts saved under just a first name. Circles show stats, a weekly recap, deadlines you share, and superlatives.</p>]]></description>
+      <enclosure url="https://github.com/Xcissors280/Tassel-Releases/releases/download/v1.17/Tassel-1.17.zip" type="application/octet-stream" sparkle:edSignature="UIXE/QOKrc5cvx/ZVAENNJ9+CLeTFl1IGIdNbsWatGjjfbLoH7Ot4AYYlDXhUn6obVMbG4nkjZcdlX2jrSwiCQ==" length="15274612" />
+    </item>
+    <item>
       <title>Tassel 1.16</title>
       <pubDate>Thu, 12 Nov 2026 14:17:05 -0500</pubDate>
       <sparkle:version>37</sparkle:version>
