@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- items -->
     <item>
+      <title>Tassel 1.15</title>
+      <pubDate>Wed, 11 Nov 2026 20:30:42 -0500</pubDate>
+      <sparkle:version>36</sparkle:version>
+      <sparkle:shortVersionString>1.15</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>To Do: Today, Upcoming and Done along the top, so past and later work is a click away. Smoother tab switching with Liquid Glass. Sidebar counts and grades line up. A cleaner Settings layout. Faster startup, and StudentVUE finds your school by itself during setup. Uses less power, especially in Low Power Mode. List icons line up with their titles.</p>]]></description>
+      <enclosure url="https://github.com/Xcissors280/Tassel-Releases/releases/download/v1.15/Tassel-1.15.zip" type="application/octet-stream" sparkle:edSignature="2yNhZoL6rsyxeqo9zDUK3kYvq0uUDmOVTyqoh8J3Bi3OLRHRVDUjbbRyisD0ESI/VMaoMjoc5cMH6WeDnNKFAQ==" length="14981329" />
+    </item>
+    <item>
       <title>Tassel 1.14</title>
       <pubDate>Tue, 10 Nov 2026 23:58:04 -0500</pubDate>
       <sparkle:version>35</sparkle:version>
