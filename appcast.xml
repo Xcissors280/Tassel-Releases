@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- items -->
     <item>
+      <title>Tassel 1.16</title>
+      <pubDate>Thu, 12 Nov 2026 14:17:05 -0500</pubDate>
+      <sparkle:version>37</sparkle:version>
+      <sparkle:shortVersionString>1.16</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Daily agendas: a short summary of the day and links to the assignments it&#x27;s about, on the class page and in the details panel. Agendas made in Google Slides are read again. The details panel is wider and slides open smoothly, and the search field is wider. Switching pages in the sidebar is faster, especially People. What to do fits in one box and no longer shows another assignment&#x27;s steps.</p>]]></description>
+      <enclosure url="https://github.com/Xcissors280/Tassel-Releases/releases/download/v1.16/Tassel-1.16.zip" type="application/octet-stream" sparkle:edSignature="1ydpi1JQRL7w99KPtBCJN3tmhW2bKBWVRY0wBaJ8a4v/mOpPxax7JxQis8mySx+AsiO1yhJAS5x5SSBZO9ZVAA==" length="15113624" />
+    </item>
+    <item>
       <title>Tassel 1.15</title>
       <pubDate>Wed, 11 Nov 2026 20:30:42 -0500</pubDate>
       <sparkle:version>36</sparkle:version>
