@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- items -->
     <item>
+      <title>Tassel 1.18</title>
+      <pubDate>Tue, 17 Nov 2026 09:00:41 -0500</pubDate>
+      <sparkle:version>39</sparkle:version>
+      <sparkle:shortVersionString>1.18</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Time per assignment: counted while it&#x27;s open in Tassel (optionally in your browser) or with a timer, with what you turned in, kept on your Mac. Tassel tags: a one-line code on work Tassel makes or turns in, naming the assignment and your school email (both students&#x27; on shared work); never a Canvas comment, so teachers aren&#x27;t notified. The board shows classes side by side, each with its stages; drag a to-do to another class to move it, and Done folds away. Circle wagers with pretend tokens, 100 a week, never money. The Tassel Improvement Program: opt in to send more about your work and get Pro while you&#x27;re in it; leaving deletes what you sent. Privacy policy updated.</p>]]></description>
+      <enclosure url="https://github.com/Xcissors280/Tassel-Releases/releases/download/v1.18/Tassel-1.18.zip" type="application/octet-stream" sparkle:edSignature="p1i9+dJki1IIIvqT/SvzpGmiucO5hhGR1++5biNcK4PLlgWydoYONN8uLmjhcifQBKl1bxyxSYkCqNk0GQCpCg==" length="15998217" />
+    </item>
+    <item>
       <title>Tassel 1.17</title>
       <pubDate>Thu, 12 Nov 2026 18:42:59 -0500</pubDate>
       <sparkle:version>38</sparkle:version>
