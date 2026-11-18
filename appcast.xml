@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- items -->
     <item>
+      <title>Tassel 1.20</title>
+      <pubDate>Wed, 18 Nov 2026 15:46:22 -0500</pubDate>
+      <sparkle:version>41</sparkle:version>
+      <sparkle:shortVersionString>1.20</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Turning in a link where an assignment only takes files: the link is always uploaded as a small web page file that opens it, whatever it links to (1.19 turned Google files into PDFs instead).</p>]]></description>
+      <enclosure url="https://github.com/Xcissors280/Tassel-Releases/releases/download/v1.20/Tassel-1.20.zip" type="application/octet-stream" sparkle:edSignature="C3OGrkWeIAr8H1MnNiE6EwjxDvY4v4iCII6KMbmjHLV8uBbCHfHgrstlMEHZ9O1nLxSsVBNkbcGvsXV/FfOcAg==" length="16168821" />
+    </item>
+    <item>
       <title>Tassel 1.19</title>
       <pubDate>Wed, 18 Nov 2026 15:40:55 -0500</pubDate>
       <sparkle:version>40</sparkle:version>
