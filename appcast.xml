@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- items -->
     <item>
+      <title>Tassel 1.21</title>
+      <pubDate>Wed, 18 Nov 2026 17:13:55 -0500</pubDate>
+      <sparkle:version>42</sparkle:version>
+      <sparkle:shortVersionString>1.21</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Pictures in Google Docs: AI agents can put pictures into a new Doc, into an existing Doc after a paragraph or in a table cell, from a web link, Google Drive or a file on your Mac. A link turned in as a file now carries the assignment&#x27;s Tassel tag, on the page and out of sight. Agents are told to add the tag to anything they make for an assignment, whatever app they use. Connecting ChatGPT is more reliable, with a way to sign in through Terminal if it doesn&#x27;t go through.</p>]]></description>
+      <enclosure url="https://github.com/Xcissors280/Tassel-Releases/releases/download/v1.21/Tassel-1.21.zip" type="application/octet-stream" sparkle:edSignature="yL6fIvcDMqHK/YzYst2pomKI4MBtVrRPsY8cJHZIvD0HzALdy1Tnyf1qvsMLBI82YM1JQG12XlvOS+8M4ShtDQ==" length="16234000" />
+    </item>
+    <item>
       <title>Tassel 1.20</title>
       <pubDate>Wed, 18 Nov 2026 15:46:22 -0500</pubDate>
       <sparkle:version>41</sparkle:version>
