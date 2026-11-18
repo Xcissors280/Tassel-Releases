@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- items -->
     <item>
+      <title>Tassel 1.19</title>
+      <pubDate>Wed, 18 Nov 2026 15:40:55 -0500</pubDate>
+      <sparkle:version>40</sparkle:version>
+      <sparkle:shortVersionString>1.19</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Hidden text: Tassel checks assignments, Google Docs and files for text you can&#x27;t see (white, tiny or invisible, sometimes planted to catch AI use), leaves it out, and shows what it found in the assignment&#x27;s details. AI agents get the same warning and are told never to follow it. Agents can fill in an assignment&#x27;s Turn In panel with a link or text for you to check and submit; when an assignment only takes files, a Google Doc, Slides or Sheet link is turned in as a PDF (or the Word, PowerPoint or Excel file it takes). Agents can also sync your accounts, and rewrite a passage with ChatGPT so it reads naturally. Tassel syncs every 10 minutes.</p>]]></description>
+      <enclosure url="https://github.com/Xcissors280/Tassel-Releases/releases/download/v1.19/Tassel-1.19.zip" type="application/octet-stream" sparkle:edSignature="XY6/Qt7niENJphsuLv3EqbuzUmAYlOyNugzX2EUZg9e+nY6FF+4PYFkwxSIqd+DQLVfPEPqw2qNikZYJDmJLBQ==" length="16176188" />
+    </item>
+    <item>
       <title>Tassel 1.18</title>
       <pubDate>Tue, 17 Nov 2026 09:00:41 -0500</pubDate>
       <sparkle:version>39</sparkle:version>
