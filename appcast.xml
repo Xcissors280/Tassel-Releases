@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- items -->
     <item>
+      <title>Tassel 1.23</title>
+      <pubDate>Thu, 19 Nov 2026 16:51:46 -0500</pubDate>
+      <sparkle:version>44</sparkle:version>
+      <sparkle:shortVersionString>1.23</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>AI agents connected to Tassel now pick up new tools after an update without restarting, and get clearer instructions: how to read and do assignments, add Tassel tags everywhere, and get work turned in (you always click Submit). Writing voice: choose a folder describing how you write in Settings &gt; AI, and Super Intelligence and agents write like you. Agents can put files into Turn In, and check whether your Canvas group, friends or circle members have turned something in. School-wide Canvas announcements show in Activity and as a banner on To Do, flyers included. The sidebar shows letter grades again.</p>]]></description>
+      <enclosure url="https://github.com/Xcissors280/Tassel-Releases/releases/download/v1.23/Tassel-1.23.zip" type="application/octet-stream" sparkle:edSignature="b+boyD/e5K0JaEX9ypYb5Wd7tZAqP6FFAsSg84vuwZU+mV+JIc5TSmErmX6VZ90YUXG8hhxTQjTb/AL77xh2Dw==" length="16399584" />
+    </item>
+    <item>
       <title>Tassel 1.22</title>
       <pubDate>Thu, 19 Nov 2026 11:15:01 -0500</pubDate>
       <sparkle:version>43</sparkle:version>
