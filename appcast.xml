@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- items -->
     <item>
+      <title>Tassel 1.22</title>
+      <pubDate>Thu, 19 Nov 2026 11:15:01 -0500</pubDate>
+      <sparkle:version>43</sparkle:version>
+      <sparkle:shortVersionString>1.22</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>ChatGPT rewrite is easier for AI agents to find and use: it&#x27;s now called chatgpt_rewrite, agents are told to run writing you&#x27;ll turn in through it, and apps that show MCP prompts offer it as a ChatGPT rewrite command.</p>]]></description>
+      <enclosure url="https://github.com/Xcissors280/Tassel-Releases/releases/download/v1.22/Tassel-1.22.zip" type="application/octet-stream" sparkle:edSignature="Q/Yux1WbZ6QwZUf6KnCDFbFA5Le1nAqLQSj9cT3keiGW9IDWAmhYdzvlweSyBtZzF9SCeTw4aKYQsmw1GPxIBQ==" length="16236618" />
+    </item>
+    <item>
       <title>Tassel 1.21</title>
       <pubDate>Wed, 18 Nov 2026 17:13:55 -0500</pubDate>
       <sparkle:version>42</sparkle:version>
