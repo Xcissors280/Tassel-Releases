@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- items -->
     <item>
+      <title>Tassel 1.27</title>
+      <pubDate>Sun, 22 Nov 2026 18:01:26 -0500</pubDate>
+      <sparkle:version>48</sparkle:version>
+      <sparkle:shortVersionString>1.27</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Copy an assignment&#x27;s Tassel tag from its details; Take the Zero moved out of the way. Circle and friend invites notify sooner and again if re-sent, you&#x27;re told when a friend request is accepted, and People in the sidebar shows waiting invites. The Circles list no longer overlaps. Wagers are simpler: challenge someone head to head or pick who&#x27;ll score highest, with set stakes.</p>]]></description>
+      <enclosure url="https://github.com/Xcissors280/Tassel-Releases/releases/download/v1.27/Tassel-1.27.zip" type="application/octet-stream" sparkle:edSignature="YpQ135c7bwsEuH1qthJX47cOu4CKqkGv/zaWx+fPRwRQZZ0pIaCSQAesjMCl0GQnDR0arsXgsvlvBaquXgffCw==" length="16740921" />
+    </item>
+    <item>
       <title>Tassel 1.26</title>
       <pubDate>Sun, 22 Nov 2026 17:41:19 -0500</pubDate>
       <sparkle:version>47</sparkle:version>
