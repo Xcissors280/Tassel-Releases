@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- items -->
     <item>
+      <title>Tassel 1.26</title>
+      <pubDate>Sun, 22 Nov 2026 17:41:19 -0500</pubDate>
+      <sparkle:version>47</sparkle:version>
+      <sparkle:shortVersionString>1.26</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Mail: each Canvas account in Tassel&#x27;s Mail account now has a Grades mailbox, with an email for every grade showing the percent, what it&#x27;s worth, your class grade now, the teacher&#x27;s comment, links to Tassel and Canvas, and the Tassel tag. Messages link back to Tassel and Canvas too. The sidebar lines counts and grades up on either side of one line again, and the board hides No Class unless you have your own to-dos.</p>]]></description>
+      <enclosure url="https://github.com/Xcissors280/Tassel-Releases/releases/download/v1.26/Tassel-1.26.zip" type="application/octet-stream" sparkle:edSignature="0Ef2rB+Spy9YE1LE1AFlqLZ10qtXcJh462yROm/+svtNTdovrzRQ4Ko6K5oY2bgfzmPFvh21J4lKoYU90aFQBw==" length="16703994" />
+    </item>
+    <item>
       <title>Tassel 1.25</title>
       <pubDate>Thu, 19 Nov 2026 22:16:53 -0500</pubDate>
       <sparkle:version>46</sparkle:version>
