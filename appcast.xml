@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- items -->
     <item>
+      <title>Tassel 1.28</title>
+      <pubDate>Mon, 23 Nov 2026 23:25:10 -0500</pubDate>
+      <sparkle:version>49</sparkle:version>
+      <sparkle:shortVersionString>1.28</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Turning in a Google Doc link shows what&#x27;s in it, before and after, instead of Canvas&#x27;s picture of a sign-in page, and warns you if your teacher can&#x27;t open it. When Canvas has graded something StudentVUE still shows as missing, Tassel uses the Canvas grade until StudentVUE catches up.</p>]]></description>
+      <enclosure url="https://github.com/Xcissors280/Tassel-Releases/releases/download/v1.28/Tassel-1.28.zip" type="application/octet-stream" sparkle:edSignature="C5/EzoAxjd2JW4Ic4iQweddiMIq0F2bByCQvpdaFNEFVjT6fkEIf9gRbCUDqVa3CWSbPqRCllYsEpYNOijPpDw==" length="16774415" />
+    </item>
+    <item>
       <title>Tassel 1.27</title>
       <pubDate>Sun, 22 Nov 2026 18:01:26 -0500</pubDate>
       <sparkle:version>48</sparkle:version>
