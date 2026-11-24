@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- items -->
     <item>
+      <title>Tassel 1.29</title>
+      <pubDate>Tue, 24 Nov 2026 11:18:01 -0500</pubDate>
+      <sparkle:version>50</sparkle:version>
+      <sparkle:shortVersionString>1.29</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Everything you set up now syncs to your other Macs: your own to-dos, class colors, names and order, hidden classes, grade category changes, zeros, dismissals and more. New: use Tassel in Claude on the web. Turn it on in Settings &gt; AI &gt; Claude on the Web and add the URL as a custom connector in claude.ai (Tassel needs to be open on your Mac).</p>]]></description>
+      <enclosure url="https://github.com/Xcissors280/Tassel-Releases/releases/download/v1.29/Tassel-1.29.zip" type="application/octet-stream" sparkle:edSignature="ENr7q/GwFqFyjjWPCnDh2XTU7WBIcOvtMOvS5cuFCyQPF/oyyWEOryBrqkLw6oOTbNxljh3ft2IqBqRwTlADBg==" length="16855642" />
+    </item>
+    <item>
       <title>Tassel 1.28</title>
       <pubDate>Mon, 23 Nov 2026 23:25:10 -0500</pubDate>
       <sparkle:version>49</sparkle:version>
